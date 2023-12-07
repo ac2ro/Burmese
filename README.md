@@ -1,12 +1,12 @@
 
-# Bermese SSH Bruter
+# Burmese SSH Bruter
 
-Bermese is a Simple Python Secure Shell (SSH) Bruteforcer That Has Unique Features Such as Running LinPEAs or LinEnums on The Compromised Target. Also Logs to Discord Webhooks 
+Burmese is a Simple Python Secure Shell (SSH) Bruteforcer That Has Unique Features Such as Running LinPEAs or LinEnums on The Compromised Target. Also Logs to Discord Webhooks 
 
 
 ## Installation
 
-To Starting Using Bermese , Simply Clone the Repository
+To Starting Using Burmese , Simply Clone the Repository
 
 ```bash
 git clone https://github.com/ac2ro/Burmese
