@@ -9,7 +9,7 @@ Bermese is a Simple Python Secure Shell (SSH) Bruteforcer That Has Unique Featur
 To Starting Using Bermese , Simply Clone the Repository
 
 ```bash
-  git clone https://github.com/ac2ro/Burmese
+git clone https://github.com/ac2ro/Burmese
 ```
 Then Inside The Bermse Folder Open ``main.py``
 
