@@ -19,6 +19,9 @@ Change The Value To Your Webhook.
 
 Now You Can run ```python main.py``` To Get Started.
 
+## Disclaimer
+This is Still In ``Beta`` Version so a Few Things Might be Buggy.
+
 
 
 ## Preview
