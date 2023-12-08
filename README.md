@@ -11,7 +11,7 @@ To Starting Using Burmese , Simply Clone the Repository
 ```bash
 git clone https://github.com/ac2ro/Burmese
 ```
-Then Inside The Bermse Folder Open ``main.py``
+Then Inside The Burmese Folder Open ``main.py``
 
 Go to the Line That Has The Variable ``NOTIF_WEBHOOK``
 This is the Webhook That Bermese Uses For Logging.
